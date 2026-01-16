@@ -9,8 +9,8 @@
 <br>
 
 ### Problem Statement
- •  Customer buying habits are influenced by multiple factors: 
-  • Discounts and promotions 
+Customer buying habits are influenced by multiple factors: 
+ <br> • Discounts and promotions 
  
 • Product reviews and ratings 
 
