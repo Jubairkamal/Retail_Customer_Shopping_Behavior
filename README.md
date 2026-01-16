@@ -1,5 +1,5 @@
 # Retail_Customer_Shopping_Behavior
- #### Data analytics project showcasing retail customer shopping behavior using python, sql, and power bi.
+ #### Data analytics project showcasing retail customer shopping behavior using python, sql, and power Bi.
 
   
   
