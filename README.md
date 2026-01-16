@@ -23,8 +23,11 @@
 
    
 • Discounts and promotions
+
 • Product reviews and ratings
+
 • Seasonal trends
+
 • Payment options
 
 
