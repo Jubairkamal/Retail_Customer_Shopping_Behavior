@@ -9,11 +9,13 @@
 
 ## Problem Statement ##
 Customer buying habits are influenced by multiple factors:
-    • Discounts and promotions
-    • Product reviews and ratings
-    • Seasonal trends
-    • Payment options
-    
+
+• Discounts and promotions
+• Product reviews and ratings
+• Seasonal trends
+• Payment options
+
+
 Currently, the company lacks insights into which factors most significantly affect purchases, making it difficult to make data-driven decisions.
 
 ## Objectives ##
