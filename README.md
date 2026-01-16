@@ -2,6 +2,7 @@
  #### Data analytics project showcasing retail customer shopping behavior using python, sql, and power Bi.
  
 <br>
+
 ### Overview
    A complete end-to-end Data Analytics project analyzing customer purchasing patterns using Python, SQL, and Power BI. The analysis uncovers insights into revenue            behavior, customer loyalty, discount usage, product performance, and more.
   
