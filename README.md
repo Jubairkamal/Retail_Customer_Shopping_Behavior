@@ -20,12 +20,11 @@ Customer buying habits are influenced by multiple factors:
 <br>
  
 ### Objectives ##
-How customers shop, find patterns in their buying behavior, and use these insights to improve sales and customer satisfaction.
+Analyzing customer shopping habits and leveraging patterns to boost sales and satisfaction.
  <br> • Analyze customer behavior using real-world data
  <br> • Provide actionable insights to increase sales and improve customer satisfaction
  <br> • Support marketing, sales, and business decisions with data-driven recommendations
- <br> Understanding customer buying behavior helps the company make better decisions, improve sales, keep customers happy, and encourage them to shop again.
-
+ <br> Understanding customer buying behavior helps improve decisions, boost sales, and increase customer satisfaction and loyalty.
 
 <br>
 
