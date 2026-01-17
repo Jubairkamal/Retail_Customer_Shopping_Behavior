@@ -39,7 +39,7 @@ Customer buying habits are influenced by multiple factors:
    <br> 3. Visualization: Create charts and interactive dashboards in Power BI
    <br> 4. Reporting: Summarize findings and provide actionable recommendations
 
-    <br>
+<br>
 
 ### Deliverables
  • Cleaned and structured dataset
