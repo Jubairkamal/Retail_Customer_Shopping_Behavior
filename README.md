@@ -28,23 +28,23 @@ Customer buying habits are influenced by multiple factors:
 
 ### Tools & Technologies
     • Python – Data cleaning, preprocessing, and exploratory analysis
-    • SQL – Querying and analyzing structured data
-    • Power BI – Creating interactive dashboards and visualizations
+    <br> • SQL – Querying and analyzing structured data
+   <br> • Power BI – Creating interactive dashboards and visualizations
 
     <br>
 
     
 ### Methodology
     1. Data Cleaning: Handle missing values, inconsistencies, and formatting issues
-    2. Exploratory Analysis: Identify patterns and trends in customer behavior
-    3. Visualization: Create charts and interactive dashboards in Power BI
-    4. Reporting: Summarize findings and provide actionable recommendations
+   <br>  2. Exploratory Analysis: Identify patterns and trends in customer behavior
+   <br> 3. Visualization: Create charts and interactive dashboards in Power BI
+    <br> 4. Reporting: Summarize findings and provide actionable recommendations
 
     <br>
 
     
 ### Deliverables
     • Cleaned and structured dataset
-    • SQL analysis scripts
-    • Interactive Power BI dashboard
-    • Summary report with insights and recommendations
+    <br> SQL analysis scripts
+   <br>  • Interactive Power BI dashboard
+   <br>  • Summary report with insights and recommendations
