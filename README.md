@@ -33,7 +33,7 @@ Python, SQL, and Power BI were chosen to quickly analyze and visualize data for 
    <br> • Python – Data cleaning, preprocessing, and exploratory analysis
    <br> • SQL – Querying and analyzing structured data
    <br> • Power BI – Creating interactive dashboards and visualizations
-   <br> These tools are used to study the data, find patterns, and show results clearly so the company can make better decisions.
+   <br> These tools help examine data, uncover patterns, and present results clearly, enabling the company to make well-informed decisions.
 
 <br>
 
