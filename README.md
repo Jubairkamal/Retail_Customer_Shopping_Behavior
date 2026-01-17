@@ -18,7 +18,7 @@ Customer buying habits are influenced by multiple factors:
  <br> Currently, the company lacks insights into which factors most significantly affect purchases, making it difficult to make data-driven decisions.
  
  <br>
-
+ 
 ### Objectives ##
 <br>• Analyze customer behavior using real-world data
 <br>• Provide actionable insights to increase sales and improve customer satisfaction
