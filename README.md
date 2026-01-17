@@ -24,7 +24,7 @@ How customers shop, find patterns in their buying behavior, and use these insigh
  <br> • Analyze customer behavior using real-world data
  <br> • Provide actionable insights to increase sales and improve customer satisfaction
  <br> • Support marketing, sales, and business decisions with data-driven recommendations
- Understanding customer buying behavior helps the company make better decisions, improve sales, keep customers happy, and encourage them to shop again.
+ <br> Understanding customer buying behavior helps the company make better decisions, improve sales, keep customers happy, and encourage them to shop again.
 
 
 <br>
