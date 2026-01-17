@@ -10,6 +10,11 @@ This end-to-end data analytics project analyzes customer purchasing patterns usi
 
 With online shopping becoming an integral part of daily life, customer behavior is growing increasingly complex. In a competitive retail environment, acquiring new customers is often more expensive than retaining existing ones. By analyzing customer purchases, retailers can understand behavior patterns, improve retention, and optimize marketing and sales strategies.
 
+
+With advances in technology, online shopping has become a part of daily life and is expected to grow worldwide. Accordingly, customer behavior is becoming increasingly complex over time. In a highly competitive retail environment, attracting new customers is significantly more expensive than retaining existing ones. To maximize profits and provide better service, retailers analyze customer purchases to understand behavior patterns, improve retention, and optimize marketing and sales strategies.
+
+
+
 ---
 
 ## Problem Statement
