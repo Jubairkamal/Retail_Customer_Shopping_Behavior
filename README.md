@@ -29,9 +29,11 @@ Analyzing customer shopping habits and leveraging patterns to boost sales and sa
 <br>
 
 ### Tools & Technologies
-  • Python – Data cleaning, preprocessing, and exploratory analysis
+Python, SQL, and Power BI were chosen to quickly analyze and visualize data for better business insights.
+   <br> • Python – Data cleaning, preprocessing, and exploratory analysis
    <br> • SQL – Querying and analyzing structured data
    <br> • Power BI – Creating interactive dashboards and visualizations
+   <br> These tools are used to study the data, find patterns, and show results clearly so the company can make better decisions.
 
 <br>
 
