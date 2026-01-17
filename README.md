@@ -15,7 +15,10 @@ Customer buying habits are influenced by multiple factors:
  <br> • Product reviews and ratings 
  <br> • Seasonal trends 
  <br> • Payment options 
- <br> Currently, the company lacks insights into which factors most significantly affect purchases, making it difficult to make data-driven decisions.
+ <br> Currently, the company does not have enough information to determine which factors most strongly influence customer purchases, making data-driven decision-making challenging.
+
+
+
  
  <br>
  
