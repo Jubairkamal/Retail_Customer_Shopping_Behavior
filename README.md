@@ -27,8 +27,8 @@ Customer buying habits are influenced by multiple factors:
 <br>
 
 ### Tools & Technologies
-    • Python – Data cleaning, preprocessing, and exploratory analysis
-    <br> • SQL – Querying and analyzing structured data
+   <br> • Python – Data cleaning, preprocessing, and exploratory analysis
+   <br> • SQL – Querying and analyzing structured data
    <br> • Power BI – Creating interactive dashboards and visualizations
 
     <br>
