@@ -17,9 +17,6 @@ Customer buying habits are influenced by multiple factors:
  <br> • Payment options 
  <br> Currently, the company does not have enough information to determine which factors most strongly influence customer purchases, making data-driven decision-making challenging.
 
-
-
- 
  <br>
  
 ### Objectives ##
@@ -27,4 +24,27 @@ Customer buying habits are influenced by multiple factors:
  <br>• Provide actionable insights to increase sales and improve customer satisfaction
  <br>• Support marketing, sales, and business decisions with data-driven recommendations
 
+<br>
 
+### Tools & Technologies
+    • Python – Data cleaning, preprocessing, and exploratory analysis
+    • SQL – Querying and analyzing structured data
+    • Power BI – Creating interactive dashboards and visualizations
+
+    <br>
+
+    
+### Methodology
+    1. Data Cleaning: Handle missing values, inconsistencies, and formatting issues
+    2. Exploratory Analysis: Identify patterns and trends in customer behavior
+    3. Visualization: Create charts and interactive dashboards in Power BI
+    4. Reporting: Summarize findings and provide actionable recommendations
+
+    <br>
+
+    
+### Deliverables
+    • Cleaned and structured dataset
+    • SQL analysis scripts
+    • Interactive Power BI dashboard
+    • Summary report with insights and recommendations
