@@ -33,19 +33,31 @@ Customer buying habits are influenced by multiple factors:
 
 <br>
 
-### Methodology <br> 
+### Methodology 
         1. Data Cleaning: Handle missing values, inconsistencies, and formatting issues
    <br> 2. Exploratory Analysis: Identify patterns and trends in customer behavior
    <br> 3. Visualization: Create charts and interactive dashboards in Power BI
    <br> 4. Reporting: Summarize findings and provide actionable recommendations
 
-
-
     <br>
 
-    
 ### Deliverables
-    • Cleaned and structured dataset
-    <br> SQL analysis scripts
-   <br>  • Interactive Power BI dashboard
-   <br>  • Summary report with insights and recommendations
+ • Cleaned and structured dataset
+ <br> • SQL analysis scripts
+ <br> • Interactive Power BI dashboard
+ <br> • Summary report with insights and recommendations
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
