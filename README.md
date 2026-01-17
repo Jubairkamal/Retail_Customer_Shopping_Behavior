@@ -38,19 +38,13 @@ Python, SQL, and Power BI were chosen to quickly analyze and visualize data for 
 <br>
 
 ### Methodology 
-  •  Data Cleaning: Handle missing values, inconsistencies, and formatting issues
+
+Methodology helps structure the work in steps, ensuring the analysis is correct and the insights can be trusted.
+   <br> •  Data Cleaning: Handle missing values, inconsistencies, and formatting issues
    <br> • Exploratory Analysis: Identify patterns and trends in customer behavior
    <br> • Visualization: Create charts and interactive dashboards in Power BI
    <br> • Reporting: Summarize findings and provide actionable recommendations
-
-<br>
-
-### Deliverables
- • Cleaned and structured dataset
- <br> • SQL analysis scripts
- <br> • Interactive Power BI dashboard
- <br> • Summary report with insights and recommendations
-
+   <br> with this Methodology is important because it keeps the analysis structured, accurate, and helpful for making decisions.
 
 
 
