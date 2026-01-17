@@ -63,9 +63,6 @@ This structured approach ensures the analysis is accurate, clear, and useful for
 
 
 
-
-
-
 # Retail_Customer_Shopping_Behavior
 
 **A data analytics project showcasing retail customer shopping behavior using Python, SQL, and Power BI.**
