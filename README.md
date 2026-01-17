@@ -17,7 +17,7 @@ Customer buying habits are influenced by multiple factors:
  <br> • Payment options 
  <br> Currently, the company does not have enough information to determine which factors most strongly influence customer purchases, making data-driven decision-making challenging.
 
-
+<br>
  
 ### Objectives ##
 • Analyze customer behavior using real-world data
