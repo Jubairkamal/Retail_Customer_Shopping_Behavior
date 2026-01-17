@@ -71,10 +71,9 @@ This structured approach ensures the analysis is accurate, clear, and useful for
 
 ## Overview
 
-This end-to-end data analytics project analyzes customer purchasing patterns using **Python, SQL, and Power BI**. The analysis provides insights into revenue trends, customer loyalty, discount usage, product performance, and more.
+This is a complete end-to-end Data Analytics project analyzing customer purchasing patterns using **Python, SQL, and Power BI**. The analysis uncovers insights into revenue behavior, customer loyalty, discount usage, product performance, and more.
 
-With online shopping becoming an integral part of daily life, customer behavior is growing increasingly complex. In a competitive retail environment, acquiring new customers is often more expensive than retaining existing ones. By analyzing customer purchases, retailers can understand behavior patterns, improve retention, and optimize marketing and sales strategies.
-
+With advances in technology, online shopping has become a part of daily life and is expected to grow worldwide. Accordingly, customer behavior is becoming increasingly complex over time. In a highly competitive retail environment, attracting new customers is significantly more expensive than retaining existing ones. To maximize profits and provide better service, retailers analyze customer purchases to understand behavior patterns, improve retention, and optimize marketing and sales strategies.
 ---
 
 ## Problem Statement
