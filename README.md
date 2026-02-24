@@ -63,7 +63,7 @@ Here’s how I approached the analysis:
 3. **Visualization:** Built charts and interactive dashboards in Power BI  
 4. **Reporting:** Summarized key findings and provided actionable recommendations  
 
-**Outcome:** Insights that could guide pricing, promotions, and customer retention strategies.  
+Insights that could guide pricing, promotions, and customer retention strategies.  
 
 ---
 
