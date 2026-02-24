@@ -14,7 +14,7 @@ Some of the things I looked at:
 - The impact of discounts and seasonal campaigns  
 - Ways to improve customer satisfaction and retention  
 
-**Why it matters:** Knowing how customers shop helps companies plan marketing, boost sales, and keep their best customers happy.  
+Knowing how customers shop helps companies plan marketing, boost sales, and keep their best customers happy.  
 
 ---
 
@@ -37,9 +37,9 @@ The project was designed to show my skills in **data analysis and turning data i
 
 - Analyze customer behavior using real-world retail data  
 - Share findings that could help improve sales and customer satisfaction  
-- Support marketing and business decisions with data-backed recommendations  
+- Support marketing and business decisions with data-backed recommendations
 
-**Key takeaway for employers:** I can take messy data, make sense of it, and provide insights that matter to the business.  
+Understanding customer buying behavior helps improve decisions, boost sales, and strengthen customer loyalty.
 
 ---
 
