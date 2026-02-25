@@ -10,7 +10,7 @@ This end-to-end data analytics project analyzes customer purchasing patterns usi
 
 ## Problem Statement
 
-#Retailers often struggle to identify factors that influence customer purchases, such as:  
+Retailers often struggle to identify factors that influence customer purchases, such as:  
 
 - Discounts and promotions  
 - Product ratings and reviews  
