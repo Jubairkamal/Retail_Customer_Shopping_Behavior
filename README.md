@@ -24,13 +24,13 @@ Without structured insights, decision-making tends to be reactive rather than da
 
 ## Objectives
 
-The project demonstrates key skills in **data analysis and business insight**:  
+Project demonstrates key skills in **data analysis and business insight**:  
 
 - Analyze customer behavior using real-world retail data  
 - Provide insights to support improved sales and customer satisfaction  
 - Inform marketing and business decisions with data-driven recommendations  
 
-**Key takeaway for employers:** This project illustrates the ability to transform raw data into actionable business insights.
+Project illustrates the ability to transform raw data into actionable business insights.
 
 
 
@@ -53,7 +53,7 @@ The analysis follows a structured approach:
 3. **Visualization:** Develop charts and interactive dashboards in Power BI  
 4. **Reporting:** Summarize key findings and provide actionable recommendations  
 
-**Outcome:** Insights that can guide pricing, promotions, and customer retention strategies.
+Insights that can guide pricing, promotions, and customer retention strategies.
 
 
 
